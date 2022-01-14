@@ -1,0 +1,30 @@
+{
+	"storyName": "Hellset tiky lmao",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"HellsetTricky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hellset",
+			"tricky",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Hellset"
+}
